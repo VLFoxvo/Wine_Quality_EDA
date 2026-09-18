@@ -74,9 +74,8 @@ wine-quality-eda/
 ├── README.md                       # This file
 ├── wine_quality_eda.ipynb          # Main analysis notebook
 ├── requirements.txt                # Python dependencies
-├── data/
-│   ├── winequality-red.csv         # Red wine dataset (1,599 samples)
-│   └── winequality-white.csv       # White wine dataset (4,898 samples)
+├── winequality-red.csv             # Red wine dataset (1,599 samples)
+├── winequality-white.csv           # White wine dataset (4,898 samples)
 ├── images/
 │   ├── correlation_heatmaps.png    # Red vs White correlation matrices
 │   ├── cluster_profiles.png        # Cluster centroids visualization
