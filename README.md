@@ -77,11 +77,13 @@ wine-quality-eda/
 ├── winequality-red.csv             # Red wine dataset (1,599 samples)
 ├── winequality-white.csv           # White wine dataset (4,898 samples)
 ├── images/
-│   ├── correlation_heatmaps.png    # Red vs White correlation matrices
-│   ├── cluster_profiles.png        # Cluster centroids visualization
-│   ├── feature_importance.png      # Random Forest permutation importance
-│   └── alcohol_distribution.png    # Multimodal alcohol distribution
-└── LICENSE                         # MIT License
+│   ├── correlation_heatmaps.png      # Red vs White correlation matrices
+│   ├── cluster_red.png               # Cluster visualization for red
+│   ├── cluster_white.png             #  and white wines
+│   ├── feature_importance_red.png    # Random Forest permutation importance for red
+│   ├── feature_importance_white.png  # and white wines
+│   └── alcohol_distribution.png      # Multimodal alcohol distribution
+└── LICENSE                           # MIT License
 </pre>
 ## 🚀 Getting Started
 
